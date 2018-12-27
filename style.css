@@ -1,0 +1,39 @@
+*{
+    /* outline: 1px dotted red; */
+
+}
+#header{
+    background: rgb(224, 224, 224);
+    border-bottom: thin solid silver;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#main{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#footer{
+    
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(224, 224, 224);
+    border-top: thin solid silver;
+}
+.showMore{
+    text-align: center;
+    padding: 10px;
+
+}
+ul{
+    list-style-type: none;
+}
